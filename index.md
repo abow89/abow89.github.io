@@ -1,5 +1,5 @@
 ---
-title: "Abdalmenem"
+title: "Atmospheric Hyperspectral Remote Sensing"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
