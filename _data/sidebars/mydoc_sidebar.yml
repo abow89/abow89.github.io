@@ -9,12 +9,12 @@ entries:
     folderitems:
 
       - title: Lecture 1
-        url: "/lectures/lecture1.html"
+        url: /lectures/lecture1.html
         output: web, pdf
         type: frontmatter
         folderitems:
           - title: Lab 1 – Exercise
-            url: "/lectures/lab1.html"
+            url: /lectures/lab1.html
             output: web, pdf
             type: frontmatter
 
